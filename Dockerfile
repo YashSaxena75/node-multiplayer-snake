@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:3.10
+FROM mhart/alpine-node
   
 COPY . /app
 
